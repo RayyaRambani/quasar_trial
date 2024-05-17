@@ -1,4 +1,4 @@
-# Quasar App (uts-rayya-22421012)
+# Quasar App 
 
 A Quasar Project
 
